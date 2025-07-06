@@ -142,6 +142,6 @@ The script applies the logic to numbers from 1 to 100 and prints the output.
 
 ## Author
 
-Aslie  
+Asli Ekmekci 
 CGM Interview Task  
 July 2025
