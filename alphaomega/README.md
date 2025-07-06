@@ -1,9 +1,5 @@
 # CGM Interview Technical Task
 
-This project contains two parts as requested in the interview exercise:
-
----
-
 ## 1. AlphaOmega Function (JavaScript)
 
 ### Description
