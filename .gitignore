@@ -12,3 +12,7 @@ yarn-error.log*
 
 # VS Code settings 
 .vscode/
+
+# Mochawesome reports
+cypress/reports/mochawesome-json/
+cypress/reports/mochawesome-report/
