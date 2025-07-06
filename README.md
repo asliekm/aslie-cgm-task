@@ -1,4 +1,4 @@
-#  CGM Interview Task
+#  CGM Task
 
 This project contains two independent tasks:
 
@@ -119,7 +119,7 @@ start cypress/reports/mochawesome-report/index.html
 
 
 
-## 🧠 Task 2: AlphaOmega Function
+##  Task 2: AlphaOmega Function
 
 A JavaScript function that returns a custom string based on number divisibility:
 
@@ -145,6 +145,6 @@ The script applies the logic to numbers from 1 to 100 and prints the output.
 
 ## Author
 
-Aslie  
+Asli Ekmekci 
 CGM Interview Task  
 July 2025
