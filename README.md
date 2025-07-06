@@ -119,7 +119,7 @@ start cypress/reports/mochawesome-report/index.html
 
 
 
-## 🧠 Task 2: AlphaOmega Function
+##  Task 2: AlphaOmega Function
 
 A JavaScript function that returns a custom string based on number divisibility:
 
