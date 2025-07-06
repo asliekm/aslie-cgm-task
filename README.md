@@ -1,4 +1,4 @@
-#  CGM Interview Task
+#  CGM Task
 
 This project contains two independent tasks:
 
