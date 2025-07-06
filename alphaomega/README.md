@@ -15,6 +15,8 @@ A simple function that accepts a number and returns a string based on divisibili
 - Returns `"AlphaOmega"` if divisible by **both 3 and 5**
 - Returns `"NoSymbol"` if divisible by neither
 
+![ AlphaOmega Function Screenshot](./cypress/assets/alpha-omega-function.png)
+
 ### Execution
 
 To run this script:

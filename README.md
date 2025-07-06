@@ -130,6 +130,9 @@ A JavaScript function that returns a custom string based on number divisibility:
 | 3 and 5      | `AlphaOmega`  |
 | Neither      | `NoSymbol`    |
 
+
+![ AlphaOmega Function Screenshot](./cypress/assets/alpha-omega-function.png)
+
 ### File
 
 ```txt
