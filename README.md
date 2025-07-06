@@ -102,7 +102,7 @@ start cypress/reports/mochawesome-report/index.html
 
 > Modal appears and is successfully closed.
 
-![Passing Screenshot(./cypress/assets/pass-screenshot.png)
+![Passing Screenshot](./cypress/assets/pass-screenshot.png)
 
 ---
 
@@ -115,8 +115,8 @@ start cypress/reports/mochawesome-report/index.html
 ---
 
 > Preview of a test failure moment:
-
 ![Failing Video Preview](./cypress/assets/fail-video-preview.gif)
+
 
 
 ## 🧠 Task 2: AlphaOmega Function
