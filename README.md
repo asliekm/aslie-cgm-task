@@ -114,9 +114,6 @@ start cypress/reports/mochawesome-report/index.html
 
 ---
 
-> Preview of a test failure moment:
-![Failing Video Preview](./cypress/assets/fail-video-preview.gif)
-
 
 
 ##  Task 2: AlphaOmega Function
